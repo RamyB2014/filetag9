@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<LingoProject TargetLanguage="ar" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SourceControlBound="false">
+<LingoProject TargetLanguage="ar" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SourceControlBound="true" SourceControlDatabase="C:\Users\rallahwerdy\Documents\My Translated Projects\NewProject164.liprjf\.git" SourceControlProviderType="Git" ProjectGuid="9f58c8a8-89e0-44bf-ae92-37422149152e" SourceControlDatabaseRoot="C:\Users\rallahwerdy\Documents\My Translated Projects\NewProject164.liprjf">
     <ProjectFile Source="Target/Flare-new.flprj" Target="Target/Flare-new.flprj" />
 </LingoProject>
